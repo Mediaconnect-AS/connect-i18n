@@ -5,7 +5,11 @@ upload:
   files: # List of files for upload to Localizely. Usually it is just one file used for the main locale
     - file: en.properties
       locale_code: en
+    - file: nb-NO.properties
+      locale_code: nb-NO
 download:
   files: # List of files for download from Localizely.
     - file: en.properties
       locale_code: en
+    - file: nb-NO.properties
+      locale_code: nb-NO
