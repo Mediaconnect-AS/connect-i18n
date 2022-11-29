@@ -11,5 +11,3 @@ download:
       locale_code: en
     - file: lib/l10n/intl_de.arb
       locale_code: de
-    - file: lib/l10n/intl_es.arb
-      locale_code: es
