@@ -1,2 +1,2 @@
 # language
-Used for properties files
+Properties files for connect
