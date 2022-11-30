@@ -3,8 +3,8 @@ project_id: 81ac16a7-f994-4394-8f12-599a7e46d7b5 # Your project ID from: https:/
 file_type: java_properties
 upload:
   files: # List of files for upload to Localizely. Usually it is just one file used for the main locale
-    - file: nb-no.properties
-      locale_code: nb-no
+    - file: nb-NO.properties
+      locale_code: nb-NO
     - file: nn.properties
       locale_code: nn  
     - file: en-GB.properties
@@ -13,8 +13,8 @@ upload:
       locale_code: sv-SE          
 download:
   files: # List of files for download from Localizely.
-    - file: nb-no.properties
-      locale_code: nb-no
+    - file: nb-NO.properties
+      locale_code: nb-NO
     - file: nn.properties
       locale_code: nn  
     - file: en-GB.properties
